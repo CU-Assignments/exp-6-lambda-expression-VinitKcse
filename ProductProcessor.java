@@ -20,7 +20,6 @@ class Product {
         return name + " ($" + price + ")";
     }
 }
-
 public class ProductProcessor {
     public static void main(String[] args) {
         // Sample dataset of products
